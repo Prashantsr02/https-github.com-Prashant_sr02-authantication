@@ -25,7 +25,7 @@
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/Sagar-Arora-eng/Backend-Authentication`
+`git clone https://github.com/SheshmaniPatel/authantication`
 
 ##### Into the project directory
 
@@ -39,7 +39,7 @@
 
 `npm start`
 
-#### The Server should now be running at http://localhost:8000/
+#### The Server should now be running at http://localhost:7000/
 
 ## Folder Structure
 
